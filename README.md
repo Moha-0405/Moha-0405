@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Moha-0405/Moha-0405/raw/main/descarga.jpg" 
-       alt="Banner Mohamed Laaouar Akoudad" width="100%">
-</p>
 
 <h1 align="center">👋 ¡Hola, soy Mohamed Laaouar Akoudad!</h1>
 <h3 align="center">💻 Estudiante de 1º DAM | Apasionado por el desarrollo de software 🚀</h3>
