@@ -1,4 +1,3 @@
-<!-- Encabezado principal -->
 <h1 align="center">👋 ¡Hola, soy Mohamed Laaouar Akoudad!</h1>
 <h3 align="center">💻 Estudiante de 1º DAM | Apasionado por el desarrollo de software 🚀</h3>
 
@@ -77,12 +76,11 @@ Me encanta descubrir cómo funcionan las cosas desde cero y aprender nuevas tecn
 <!-- Estadísticas de GitHub -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedLaaouarAkoudad&show_icons=true&theme=tokyonight" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedLaaouarAkoudad&layout=compact&theme=tokyonight" height="180em" />
 
 </div>
 
 ---
 
-<!-- Firma -->
-<p align="center">💻 Creado con ❤️ por <b>Mohamed Laaouar Akoudad</b></p>
+<p align="center">¡Gracias por pasarte por mi perfil! Estoy comenzando este viaje y me alegra que formes parte de él. 🚀</b></p>
