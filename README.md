@@ -70,17 +70,3 @@ Me encanta descubrir cómo funcionan las cosas desde cero y aprender nuevas tecn
 
 <h3 align="center">✨ ¡Gracias por visitar mi perfil! ✨</h3>
 <p align="center"><i>Estoy comenzando este viaje y me alegra que formes parte de él.</i> 🚀</p>
-
----
-
-<!-- Estadísticas de GitHub -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedLaaouarAkoudad&show_icons=true&theme=tokyonight" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedLaaouarAkoudad&layout=compact&theme=tokyonight" height="180em" />
-
-</div>
-
----
-
-<p align="center">¡Gracias por pasarte por mi perfil! Estoy comenzando este viaje y me alegra que formes parte de él. 🚀</b></p>
