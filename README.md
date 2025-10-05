@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\Usuario\Downloads\descarga.jpg" alt="Banner Mohamed Laaouar Akoudad" width="100%">
+  <img src="[C:\Users\Usuario\Downloads\descarga.jpg](https://www.google.com/imgres?q=imagen%20para%20fondo%20informatico&imgurl=https%3A%2F%2Fimg.freepik.com%2Fvector-gratis%2Ffondo-particulas-tecnologia-abstracta-realista_23-2148431735.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Ffondo-informatica&docid=Wkohupy87R0LUM&tbnid=vcaDGdb18LgZkM&vet=12ahUKEwi8kOW-uY2QAxWd5wIHHTlfCikQM3oECCsQAA..i&w=740&h=493&hcb=2&ved=2ahUKEwi8kOW-uY2QAxWd5wIHHTlfCikQM3oECCsQAA)" alt="Banner Mohamed Laaouar Akoudad" width="100%">
 </p>
 
 <h1 align="center">👋 ¡Hola, soy Mohamed Laaouar Akoudad!</h1>
