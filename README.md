@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MohamedLaaouarAkoudad/MohamedLaaouarAkoudad/blob/main/banner-github.png" alt="Banner Mohamed Laaouar Akoudad" width="100%">
+  <img src="C:\Users\Usuario\Downloads\descarga.jpg" alt="Banner Mohamed Laaouar Akoudad" width="100%">
 </p>
 
 <h1 align="center">👋 ¡Hola, soy Mohamed Laaouar Akoudad!</h1>
